@@ -1,6 +1,8 @@
 # SQLWeaverMate
+<div align='center'><img src="https://img.shields.io/badge/license-Apach--2.0-green"></div>
+
 ## 更新
-+ [2024/03/13] 基于InternLM2-chat-7B qlora微调得到我们的SQLWeaverMate V1.0
++ [2024/03/13] 基于InternLM2-chat-7B qlora微调得到我们的SQLWeaverMate V1.0  [InternLM2-chat-7B-SQL](https://modelscope.cn/models/Nobitaxi/InternLM2-chat-7B-SQL/summary)
 
 ## 介绍
 
